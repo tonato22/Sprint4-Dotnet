@@ -174,7 +174,7 @@ public class HealthTests : IClassFixture<WebApplicationFactory<Program>>
 
 👨‍💻 **Diogo Weyne** – RM558380  
 👨‍💻 **Gustavo Tonato Maia**   - RM555393
-👨‍💻 **João Victor de Souza**
+👨‍💻 **João Victor de Souza** -RM555290
 
 ---
 
